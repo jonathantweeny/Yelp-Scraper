@@ -1,1 +1,1 @@
-# Yelp-Scraper
+Yelp Scraper  ensures that all the data extraction work is completed promptly. After providing the initial input data, you can expect to get useful results using this powerful tool. This is the best way to extract the data at a very affordable price. A fully customized solution that fits with your business needs. This is a free version of Yelp Scraper. To get the commercial version, please visit: http://www.botguruz.com/products/yelp-scraper/
