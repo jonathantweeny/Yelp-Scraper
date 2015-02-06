@@ -1,0 +1,9 @@
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\bin\Debug\ComparePro.exe.config
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\bin\Debug\ComparePro.exe
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\bin\Debug\ComparePro.pdb
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\obj\Debug\ResolveAssemblyReference.cache
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\obj\Debug\ComparePro.frmMain.resources
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\obj\Debug\ComparePro.Properties.Resources.resources
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\obj\Debug\ComparePro.csproj.GenerateResource.Cache
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\obj\Debug\ComparePro.exe
+F:\E\Curren_Running_Projects\Crawaler\ComparePro\ComparePro\obj\Debug\ComparePro.pdb
